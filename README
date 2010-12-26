@@ -1,0 +1,8 @@
+
+Usage
+=====
+
+$ chmod u+x railscasts_downloader.rb
+$ ./railscasts_downloader.rb
+
+
